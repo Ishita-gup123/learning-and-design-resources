@@ -498,3 +498,20 @@ Design Inspirations
 - [Web Development with mongoDB and Nodejs](https://amzn.to/2Z3D37t)
 - [The Little MongoDB Book](https://www.openmymind.net/mongodb.pdf)
 #### download ebook from [here](https://drive.google.com/drive/folders/14of8fE3fVqlsMcJOYaDVdSJdnyVD0J-f?usp=sharing)
+
+## Big Data
+
+### courses
+- [Mastering Big Data Analysis](https://www.greatlearning.in/academy/learn-for-free/courses/mastering-big-data-analytics) - by Greatlearning
+- [Big Data 101](https://cognitiveclass.ai/courses/what-is-big-data) - cognitiveclass.ai
+
+### youtube channels
+- [Simplelearn](https://www.youtube.com/watch?v=bAyrObl7TYE&list=PLEiEAq2VkUUJqp1k-g5W1mo37urJQOdCZ)
+- [Edureka](https://www.youtube.com/watch?v=zez2Tv-bcXY&list=PL9ooVrP1hQOFrYxqxb0NJCdCABPZNo0pD)
+- [Tech Classes](https://www.youtube.com/watch?v=PZDqnoLXv_E&list=PLunlGNVWDAaZGwwynpZaO9vg0z36UJbJm)
+
+### Books
+- [Big Data Forensics]() - Joe Sremack
+- [Pig Design Patterns Simplify Hadoop programming]() - Pradeep Pasupuleti
+- [Scaling Big Data]() - Hrishikesh Karambelkar
+- Download ebooks from [here](https://drive.google.com/drive/folders/1FAgN9zK-oNuoCR68XQI8-Df91Dd7s8ig?usp=sharing)
